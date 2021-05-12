@@ -1,0 +1,38 @@
+* form{
+	padding: 15px 0;
+	float: right;
+}
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+p { 
+	font-family: Comic Sans MS;
+	font-size: 16px;
+	line-height: 1.3em;
+	margin-top: 5.1em;
+	margin-bottom: 0.1em;
+	color: #902642;
+	text-align: justify;
+}
+
+h1 {
+	margin-top: 80px; 
+}
+
+.Img {
+	height: 200px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+main {
+	margin-bottom: 100px;
+}
